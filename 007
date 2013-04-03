@@ -1,0 +1,41 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                What is JSONY?
+
+         plugin Server {
+           host example.com
+           port 8080
+         }
+         plugin Frobnicator {
+           harder true
+         }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
