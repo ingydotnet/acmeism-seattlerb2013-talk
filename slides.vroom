@@ -1,7 +1,9 @@
 ---- config
 title: Acmeism and the Ruby
 indent: 5
-auto_size: 1
+# auto_size: 1
+height: 18
+width: 70
 skip: 0
 
 ---- center

@@ -1,19 +1,7 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-                                                                What is JSONY?
+                            What is JSONY?
 
          plugin Server {
            host example.com
@@ -22,17 +10,6 @@
          plugin Frobnicator {
            harder true
          }
-
-
-
-
-
-
-
-
-
-
-
 
 
 

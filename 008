@@ -1,18 +1,6 @@
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-                                                       JSONY == JSON With a Little YAML
+                   JSONY == JSON With a Little YAML
 
          [
          "plugin", "Server", {
@@ -23,17 +11,6 @@
            "harder": true
          }
          ]
-
-
-
-
-
-
-
-
-
-
-
 
 
 

@@ -3,34 +3,11 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-                                                                  UniScript
+                              UniScript
 
      * UniScript is human friendly C'Dent syntax
 
          :!vim -O code/testml/testml.{uni,coffee,rb,pm,py}
-
-
-
-
-
-
-
-
-
-
-
 
 
 
